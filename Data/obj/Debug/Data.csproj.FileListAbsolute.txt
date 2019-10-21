@@ -1,0 +1,15 @@
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.dll.config
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Data.pdb
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.pdb
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\Domain.dll.config
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.xml
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Data\obj\Debug\Data.pdb

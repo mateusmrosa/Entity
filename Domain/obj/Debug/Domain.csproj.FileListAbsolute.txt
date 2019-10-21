@@ -1,0 +1,11 @@
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.dll.config
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\Domain.pdb
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.dll
+C:\Users\Mateus Rosa\source\repos\EntityFrameworkPrimeirosPassos\Domain\obj\Debug\Domain.pdb
